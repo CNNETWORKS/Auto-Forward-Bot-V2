@@ -1,0 +1,52 @@
+{
+  "name": "Auto-Forward-Bot-V2",
+  "description": "Telegram's Best Smart Plugin File Forward Bot",
+  "logo": "https://i.ibb.co/21cWmfT8/Uploaded-6910445402.jpg",
+  "stack": "container",
+  "keywords": [
+    "telegram",
+    "best",
+    "file",
+    "forward",
+    "bot"
+  ],
+  "success_url": "https://t.me/devggn",
+  "website": "https://github.com/MrGhostsx/Auto-Forward-Bot-V2",
+  "repository": "https://github.com/MrGhostsx/Auto-Forward-Bot-V2",
+  "env": {
+    "API_ID": {
+      "description": "Get this value from https://my.telegram.org or @UseTGSBot",
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "Get this value from https://my.telegram.org or @UseTGSBot",
+      "value": ""
+    },
+    "BOT_TOKEN": {
+      "description": "Your bot token from @BotFather",
+      "value": ""
+    },
+    "BOT_OWNER_ID": {
+      "description": "Enter Your Telegram id",
+      "value": ""
+    },
+    "BANNED_USERS": {
+      "description": "If you want to add a caption to the forwarded file, enter it here",
+      "required": false
+    },
+    "DATABASE_NAME": {
+      "description": "Type Of filters (document , audio , photo , video , animation)",
+      "value": "document"
+    },
+    "DATABASE_URI": {
+      "description": "pyrogram string Seccion - https://replit.com/@TechShreyansh/String-Session",", 
+      "value": ""
+    }
+  },
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "free"
+    }
+  }
+}
