@@ -10,8 +10,8 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 CLIENT = CLIENT()
 COMPLETED_BTN = InlineKeyboardMarkup(
    [
-      [InlineKeyboardButton('⚡ Support', url='https://t.me/Tech_Shreyansh')],
-      [InlineKeyboardButton('📢 Updates', url='https://t.me/Tech_Shreyansh2')]
+      [InlineKeyboardButton('⚡ Support', url='https://t.me/cnnetworkofficial')],
+      [InlineKeyboardButton('📢 Updates', url='https://t.me/+ctTkbDU_di9lYWE1')]
    ]
 )
 
