@@ -59,14 +59,14 @@ Advance Telegram Bot that can work as Message/Files Forwarder from Restricted or
 
 ## Support
 
-[<img src="https://img.icons8.com/ios/50/000000/instagram-new.png"/>](https://instagram.com/_rai_shreyansh__)
-[<img src="https://img.icons8.com/ios/50/000000/youtube.png"/>](https://youtube.com/@TechShreyansh)
-[<img src="https://img.icons8.com/ios/50/000000/telegram-app.png"/>](https://t.me/Tech_Shreyansh2)
-[<img src="https://img.icons8.com/ios/50/000000/github--v1.png"/>](https://github.com/TechyShreyansh)
-[<img src="https://img.icons8.com/ios/50/000000/domain--v1.png"/>](https://github.com/TechyShreyansh)
+[<img src="https://img.icons8.com/ios/50/000000/instagram-new.png"/>](https://t.me/cnnetworkofficial)
+[<img src="https://img.icons8.com/ios/50/000000/youtube.png"/>](https://t.me/cnnetworkofficial)
+[<img src="https://img.icons8.com/ios/50/000000/telegram-app.png"/>](https://t.me/+ctTkbDU_di9lYWE1)
+[<img src="https://img.icons8.com/ios/50/000000/github--v1.png"/>](https://t.me/cnnetworkofficial)
+[<img src="https://img.icons8.com/ios/50/000000/domain--v1.png"/>](https://t.me/cnnetworkofficial)
 
 ## Terms of USE / Modification 
-Visit [Terms](https://github.com/MrGhostsx/Save-Restricted-Content-Bot-Repo/blob/main/TERMS_OF_USE.md) and accept the guidelines.
+Visit [Terms](https://t.me/cnnetworkofficial) and accept the guidelines.
 
 ## Contributing
 
