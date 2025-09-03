@@ -10,9 +10,9 @@
     "forward",
     "bot"
   ],
-  "success_url": "https://t.me/devggn",
-  "website": "https://github.com/MrGhostsx/Auto-Forward-Bot-V2",
-  "repository": "https://github.com/MrGhostsx/Auto-Forward-Bot-V2",
+  "success_url": "https://t.me/cnnetworkofficial",
+  "website": "https://t.me/cnnetworkofficial",
+  "repository": "https://t.me/cnnetworkofficial",
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org or @UseTGSBot",
